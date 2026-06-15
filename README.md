@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muasad007)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadafridi567)
 [![EpubForge](https://img.shields.io/badge/EpubForge-Live%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.epubforge.com)
 
 </div>
@@ -47,7 +47,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ## 🚀 Featured Projects
 
-### 🏙️ NYC Taxi End-to-End Data Engineering
+### 🏙️ [NYC Taxi End-to-End Data Engineering](https://github.com/asadafridi567/NYC-Taxi-End-To-End-Data-Engineering-Project)
 **Tech:** Azure Data Factory · Databricks · PySpark · Delta Lake · ADLS Gen2 · Power BI
 
 - Built a cloud pipeline using **Azure Data Factory** for orchestration with **Medallion Architecture** (Bronze/Silver/Gold)
@@ -56,7 +56,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎬 Netflix Azure End-to-End Data Engineering
+### 🎬 [Netflix Azure End-to-End Data Engineering](https://github.com/asadafridi567/Netflix-Azure-End-To-End-Data-Engineering)
 **Tech:** ADF · ADLS Gen2 · Databricks · Delta Live Tables · Unity Catalog · Power BI
 
 - Designed parameterized **ADF pipelines** to ingest data via HTTP/REST APIs into a Medallion Architecture data lake
@@ -65,7 +65,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎵 Spotify Azure End-to-End Data Engineering
+### 🎵 [Spotify Azure End-to-End Data Engineering](https://github.com/asadafridi567/Spotify-Azure-End-To-End-Data-Engineering)
 **Tech:** ADF · Databricks · DLT · Unity Catalog · Logic Apps · CI/CD
 
 - Built real-time dynamic ADF pipelines with backfilling to move Spotify data from Azure SQL Database to ADLS Gen2
@@ -83,7 +83,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🤖 AI Text Detection Website
+### 🤖 [AI Text Detection Website](https://github.com/asadafridi567/Ai-Text-Detection)
 **Tech:** React · Django · Flask · PostgreSQL · Redis · Celery · Docker · GitHub Actions
 
 - Developed a **SaaS web app** featuring AI text detection, plagiarism checking, and text humanization
@@ -92,7 +92,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🛒 E-commerce Website
+### 🛒 [E-commerce Website](https://github.com/asadafridi567/e-commerce-website)
 **Tech:** React · Django · Django REST Framework · SQLAlchemy
 
 - Built a full-stack e-commerce platform with product catalog, shopping cart, and order management
@@ -100,7 +100,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### ⛓️ Blockchain Based Ride-Sharing App *(Final Year Project)*
+### ⛓️ Blockchain Based Ride-Sharing App *(Final Year Project — Private Repo)*
 **Tech:** Solidity · Hardhat · React Native · Firebase
 
 - Developed **smart contracts** for cab, carpool, and reward coin, deployed using Hardhat
@@ -124,40 +124,10 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 <div align="center">
 
-![Muhammad Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muasad007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasad007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Muhammad Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadafridi567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadafridi567&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muasad007&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muasad007&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3)](https://github.com/muasad007)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muasad007&theme=tokyo-night&hide_border=true)](https://github.com/muasad007)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/muasad007/muasad007/output/github-contribution-grid-snake-dark.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadafridi567&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -165,8 +135,12 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=muasad007&label=Profile%20Views&color=38BDF8&style=flat-square)](https://github.com/muasad007)
+[![Profile Views](https://komarev.com/ghpvc/?username=asadafridi567&label=Profile%20Views&color=38BDF8&style=flat-square)](https://github.com/asadafridi567)
 
 *"Turning raw data into meaningful insights — one pipeline at a time."*
 
 </div>
+
+---
+
+> 📌 **Check out my pinned repositories below for hands-on projects in Data Engineering, Python, and Full-Stack Development.**
