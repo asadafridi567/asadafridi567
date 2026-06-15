@@ -47,7 +47,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ## 🚀 Featured Projects
 
-### 🏙️ [NYC Taxi End-to-End Data Engineering]([https://github.com/asadafridi567/NYC-Taxi-End-To-End-Data-Engineering-Project](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/NYC%20Taxi%20End-to-End%20Data%20Engineering%20Project))
+### 🏙️ [NYC Taxi End-to-End Data Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/NYC%20Taxi%20End-to-End%20Data%20Engineering%20Project)
 **Tech:** Azure Data Factory · Databricks · PySpark · Delta Lake · ADLS Gen2 · Power BI
 
 - Built a cloud pipeline using **Azure Data Factory** for orchestration with **Medallion Architecture** (Bronze/Silver/Gold)
@@ -56,7 +56,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎬 [Netflix Azure End-to-End Data Engineering]([https://github.com/asadafridi567/Netflix-Azure-End-To-End-Data-Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Netflix%20Azure%20End-to-End%20Data%20Engineering%20Project))
+### 🎬 [Netflix Azure End-to-End Data Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Netflix%20Azure%20End-to-End%20Data%20Engineering%20Project)
 **Tech:** ADF · ADLS Gen2 · Databricks · Delta Live Tables · Unity Catalog · Power BI
 
 - Designed parameterized **ADF pipelines** to ingest data via HTTP/REST APIs into a Medallion Architecture data lake
@@ -65,7 +65,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎵 [Spotify Azure End-to-End Data Engineering]([https://github.com/asadafridi567/Spotify-Azure-End-To-End-Data-Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Spotify%20Data%20Engineering%20Project))
+### 🎵 [Spotify Azure End-to-End Data Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Spotify%20Data%20Engineering%20Project)
 **Tech:** ADF · Databricks · DLT · Unity Catalog · Logic Apps · CI/CD
 
 - Built real-time dynamic ADF pipelines with backfilling to move Spotify data from Azure SQL Database to ADLS Gen2
