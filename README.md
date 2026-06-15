@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+Scalable+Data+Pipelines+%26+Smart+Applications)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-asad](https://www.linkedin.com/in/muhammad-asad-571803278/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-571803278/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadafridi567)
 [![EpubForge](https://img.shields.io/badge/EpubForge-Live%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.epubforge.com)
 
