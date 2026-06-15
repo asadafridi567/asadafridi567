@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+Scalable+Data+Pipelines+%26+Smart+Applications)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-asad](https://www.linkedin.com/in/muhammad-asad-571803278/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadafridi567)
 [![EpubForge](https://img.shields.io/badge/EpubForge-Live%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.epubforge.com)
 
@@ -47,7 +47,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ## 🚀 Featured Projects
 
-### 🏙️ [NYC Taxi End-to-End Data Engineering](https://github.com/asadafridi567/NYC-Taxi-End-To-End-Data-Engineering-Project)
+### 🏙️ [NYC Taxi End-to-End Data Engineering]([https://github.com/asadafridi567/NYC-Taxi-End-To-End-Data-Engineering-Project](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/NYC%20Taxi%20End-to-End%20Data%20Engineering%20Project))
 **Tech:** Azure Data Factory · Databricks · PySpark · Delta Lake · ADLS Gen2 · Power BI
 
 - Built a cloud pipeline using **Azure Data Factory** for orchestration with **Medallion Architecture** (Bronze/Silver/Gold)
@@ -56,7 +56,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎬 [Netflix Azure End-to-End Data Engineering](https://github.com/asadafridi567/Netflix-Azure-End-To-End-Data-Engineering)
+### 🎬 [Netflix Azure End-to-End Data Engineering]([https://github.com/asadafridi567/Netflix-Azure-End-To-End-Data-Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Netflix%20Azure%20End-to-End%20Data%20Engineering%20Project))
 **Tech:** ADF · ADLS Gen2 · Databricks · Delta Live Tables · Unity Catalog · Power BI
 
 - Designed parameterized **ADF pipelines** to ingest data via HTTP/REST APIs into a Medallion Architecture data lake
@@ -65,7 +65,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-### 🎵 [Spotify Azure End-to-End Data Engineering](https://github.com/asadafridi567/Spotify-Azure-End-To-End-Data-Engineering)
+### 🎵 [Spotify Azure End-to-End Data Engineering]([https://github.com/asadafridi567/Spotify-Azure-End-To-End-Data-Engineering](https://github.com/asadafridi567/Azure-Data-Engineering-Projects/tree/main/Spotify%20Data%20Engineering%20Project))
 **Tech:** ADF · Databricks · DLT · Unity Catalog · Logic Apps · CI/CD
 
 - Built real-time dynamic ADF pipelines with backfilling to move Spotify data from Azure SQL Database to ADLS Gen2
