@@ -1,25 +1,172 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [AI Text Detection Web App](https://github.com/asadafridi567/Ai-Text-Detection)
+# Hi there, I'm Muhammad Asad 👋
 
-- 🌱 I’m currently learning **Data Engineering**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+Scalable+Data+Pipelines+%26+Smart+Applications)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://github.com/asadafridi567/](https://github.com/asadafridi567/)
+[![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muasad007)
+[![EpubForge](https://img.shields.io/badge/EpubForge-Live%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://www.epubforge.com)
 
-- 💬 Ask me about **Django, Flask, and React**
+</div>
 
-- 📫 How to reach me **muasad007@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate about building end-to-end data pipelines, cloud-native solutions, and full-stack applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadafridi567&show_icons=true&locale=en&layout=compact" alt="asadafridi567" /></p>
+- 🔭 &nbsp; I work with **Azure Data Factory, Databricks, PySpark, and Delta Lake** to build production-grade data pipelines
+- 🐍 &nbsp; Strong Python developer with experience in **Django, Flask, and backend automation**
+- ☁️ &nbsp; Cloud-focused with hands-on **Azure** experience — ADF, ADLS Gen2, Databricks, Unity Catalog
+- 🌐 &nbsp; Built and launched **[EpubForge](https://www.epubforge.com)** — a live EPUB conversion and blog platform
+- 🎓 &nbsp; BSE graduate from **HITEC University Taxila** (2021–2025)
+- 📫 &nbsp; Reach me at **muasad007@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadafridi567&show_icons=true&locale=en" alt="asadafridi567" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadafridi567&" alt="asadafridi567" /></p>
+## 🛠 Tech Stack
+
+### ☁️ Cloud & Data Engineering
+[![](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+&nbsp;
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=apache&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 🐍 Languages & Frameworks
+[![](https://skillicons.dev/icons?i=python,django,flask,js,react,ts,solidity)](https://skillicons.dev)
+
+### 🗄️ Databases & DevOps
+[![](https://skillicons.dev/icons?i=postgres,firebase,redis,docker,git,github)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏙️ NYC Taxi End-to-End Data Engineering
+**Tech:** Azure Data Factory · Databricks · PySpark · Delta Lake · ADLS Gen2 · Power BI
+
+- Built a cloud pipeline using **Azure Data Factory** for orchestration with **Medallion Architecture** (Bronze/Silver/Gold)
+- Processed and transformed large taxi datasets using **PySpark on Databricks** with Delta Lake for ACID transactions and time travel
+- Secured Databricks-to-Data Lake access via **Azure Service Principal**; visualized curated data in **Power BI**
+
+---
+
+### 🎬 Netflix Azure End-to-End Data Engineering
+**Tech:** ADF · ADLS Gen2 · Databricks · Delta Live Tables · Unity Catalog · Power BI
+
+- Designed parameterized **ADF pipelines** to ingest data via HTTP/REST APIs into a Medallion Architecture data lake
+- Used **Databricks Autoloader** for incremental ingestion and PySpark for schema casting and window function transformations
+- Built reliable Gold-layer pipelines with **Delta Live Tables** and enforced governance via **Unity Catalog**
+
+---
+
+### 🎵 Spotify Azure End-to-End Data Engineering
+**Tech:** ADF · Databricks · DLT · Unity Catalog · Logic Apps · CI/CD
+
+- Built real-time dynamic ADF pipelines with backfilling to move Spotify data from Azure SQL Database to ADLS Gen2
+- Implemented **Spark Structured Streaming** with Autoloader and **SCD Type 2** logic via Delta Live Tables
+- Used **Jinja templating** for metadata-driven SQL views, **Logic Apps** for failure alerts, and **Databricks Asset Bundles** for CI/CD
+
+---
+
+### 📚 [EpubForge](https://www.epubforge.com) — Live Web Platform
+**Tech:** React (TypeScript) · Sanity CMS · Vercel
+
+- Built a live web platform that lets users **convert EPUB files** directly in the browser
+- Integrated a **blog system** using Sanity CMS for publishing content and documentation
+- Deployed on **Vercel** with optimized performance and seamless CI/CD workflow
+
+---
+
+### 🤖 AI Text Detection Website
+**Tech:** React · Django · Flask · PostgreSQL · Redis · Celery · Docker · GitHub Actions
+
+- Developed a **SaaS web app** featuring AI text detection, plagiarism checking, and text humanization
+- Implemented user authentication with email verification and **Google login**
+- Containerized with **Docker** and automated CI/CD with **GitHub Actions**
+
+---
+
+### 🛒 E-commerce Website
+**Tech:** React · Django · Django REST Framework · SQLAlchemy
+
+- Built a full-stack e-commerce platform with product catalog, shopping cart, and order management
+- Implemented secure user authentication and CRUD operations for products and orders
+
+---
+
+### ⛓️ Blockchain Based Ride-Sharing App *(Final Year Project)*
+**Tech:** Solidity · Hardhat · React Native · Firebase
+
+- Developed **smart contracts** for cab, carpool, and reward coin, deployed using Hardhat
+- Integrated blockchain features with a **React Native frontend** for booking and payments
+- Configured **Firebase Authentication**, Firestore, and Storage to manage users and ride data
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| IT Automation with Python | Google |
+| Data Engineer Professional | IBM |
+| AI for Everyone | DeepLearning.ai |
+| Azure SQL | Microsoft |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Muhammad Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muasad007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muasad007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muasad007&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=muasad007&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3)](https://github.com/muasad007)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muasad007&theme=tokyo-night&hide_border=true)](https://github.com/muasad007)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/muasad007/muasad007/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=muasad007&label=Profile%20Views&color=38BDF8&style=flat-square)](https://github.com/muasad007)
+
+*"Turning raw data into meaningful insights — one pipeline at a time."*
+
+</div>
