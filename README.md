@@ -29,8 +29,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud & Data Engineering
-[![](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
-&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=apache&logoColor=white)
@@ -125,6 +124,8 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 | Certificate | Issuer |
 |---|---|
+| Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) | Microsoft |
+| Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Microsoft |
 | IT Automation with Python | Google |
 | Data Engineer Professional | IBM |
 | AI for Everyone | DeepLearning.ai |
