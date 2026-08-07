@@ -35,6 +35,8 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=apache&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### 🐍 Languages & Frameworks
@@ -71,6 +73,16 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 - Built real-time dynamic ADF pipelines with backfilling to move Spotify data from Azure SQL Database to ADLS Gen2
 - Implemented **Spark Structured Streaming** with Autoloader and **SCD Type 2** logic via Delta Live Tables
 - Used **Jinja templating** for metadata-driven SQL views, **Logic Apps** for failure alerts, and **Databricks Asset Bundles** for CI/CD
+
+---
+
+### 🛍️ [Walmart Data Engineering Project — Airflow + dbt + Databricks](https://github.com/asadafridi567/Walmart_Airflow_DBT_Project)
+**Tech:** PostgreSQL · dbt · Apache Airflow · Docker · Databricks SDK · Python
+
+- Built an end-to-end **Medallion Architecture** pipeline (Bronze/Silver/Gold) for Walmart data using **PostgreSQL, dbt, and Apache Airflow**
+- Orchestrated the full workflow with an Airflow DAG that triggers a **Databricks ingestion job** via the Databricks SDK, then runs staged dbt models — source freshness checks, silver technical/business layers with tests, and gold-layer dimensions and facts
+- Containerized the Airflow deployment with **Docker Compose**, mounting the dbt project (`transformation_layer/`) directly into the Airflow containers for local and orchestrated runs
+- Structured the repo around clear separation of concerns: `walmart_dataset/` for raw data and loaders, `transformation_layer/` for the dbt project, and `airflow/` for DAGs and container config
 
 ---
 
