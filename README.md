@@ -80,9 +80,9 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 **Tech:** PostgreSQL · dbt · Apache Airflow · Docker · Databricks SDK · Python
 
 - Built an end-to-end **Medallion Architecture** pipeline (Bronze/Silver/Gold) for Walmart data using **PostgreSQL, dbt, and Apache Airflow**
-- Orchestrated the full workflow with an Airflow DAG that triggers a **Databricks ingestion job** via the Databricks SDK, then runs staged dbt models — source freshness checks, silver technical/business layers with tests, and gold-layer dimensions and facts
-- Containerized the Airflow deployment with **Docker Compose**, mounting the dbt project (`transformation_layer/`) directly into the Airflow containers for local and orchestrated runs
-- Structured the repo around clear separation of concerns: `walmart_dataset/` for raw data and loaders, `transformation_layer/` for the dbt project, and `airflow/` for DAGs and container config
+- Orchestrated the pipeline with an **Airflow DAG** that triggers a **Databricks ingestion job** via the Databricks SDK
+- Ran staged **dbt models** through the DAG — source freshness checks, silver technical/business layers with tests, and gold-layer dimensions and facts
+- Containerized the Airflow deployment with **Docker Compose**, mounting the dbt project directly into the containers
 
 ---
 
