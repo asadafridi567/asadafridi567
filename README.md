@@ -83,7 +83,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 - Ran staged **dbt models** through the DAG — source freshness checks, silver technical/business layers with tests, and gold-layer dimensions and facts
 - Containerized the Airflow deployment with **Docker Compose**, mounting the dbt project directly into the containers
 
-#### Related Projects:
+---
 
 ### ✈️ [Flight Delay Prediction Pipeline](https://github.com/asadafridi567/Flight-Delay-Prediction-Pipeline)
 **Tech:** Databricks · dbt · Airflow · Python · Docker · Groq AI
