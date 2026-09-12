@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad Asad 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+Databricks+%7C+PySpark+%7C+Delta+Lake;Building+Scalable+Data+Pipelines+%26+Smart+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+[...]
 
 [![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-571803278/)
@@ -82,6 +82,24 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 - Orchestrated the pipeline with an **Airflow DAG** that triggers a **Databricks ingestion job** via the Databricks SDK
 - Ran staged **dbt models** through the DAG — source freshness checks, silver technical/business layers with tests, and gold-layer dimensions and facts
 - Containerized the Airflow deployment with **Docker Compose**, mounting the dbt project directly into the containers
+
+#### Related Projects:
+
+##### ✈️ [Flight Delay Prediction Pipeline](https://github.com/asadafridi567/Flight-Delay-Prediction-Pipeline)
+**Tech:** Databricks · dbt · Airflow · Python · Docker · Groq AI
+
+- Built a production-style data pipeline for BTS flight delay data with **Databricks + dbt medallion architecture** (star schema, SCD Type 2)
+- Orchestrated the pipeline using **Apache Airflow** with containerized deployment via **Docker**
+- Integrated a **Groq-powered natural-language AI agent** for querying the warehouse and generating insights from flight data
+
+---
+
+##### ⚡ [Merit Order ETL Pipeline](https://github.com/asadafridi567/Merit-Order-ETL-Pipeline)
+**Tech:** Databricks · Python · OCR · Data Quality
+
+- Developed an ETL pipeline on Databricks that tracks plant-wise fuel costs on Pakistan's power grid (May–Aug 2026)
+- Implemented **Bronze→Silver→Gold medallion architecture** with comprehensive data quality checks and validation
+- Applied **OCR-parsed Merit Order reports** with cost analysis and outlier detection segmented by fuel type
 
 ---
 
