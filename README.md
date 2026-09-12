@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad Asad 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Python+Developer;Azure+%7C+Databricks+%7C+PySpark;Cloud+Native+Solutions;Full-Stack+Applications)](https://github.com/asadafridi567)
 
 [![Email](https://img.shields.io/badge/Email-muasad007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muasad007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-571803278/)
@@ -85,7 +85,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 #### Related Projects:
 
-##### ✈️ [Flight Delay Prediction Pipeline](https://github.com/asadafridi567/Flight-Delay-Prediction-Pipeline)
+### ✈️ [Flight Delay Prediction Pipeline](https://github.com/asadafridi567/Flight-Delay-Prediction-Pipeline)
 **Tech:** Databricks · dbt · Airflow · Python · Docker · Groq AI
 
 - Built a production-style data pipeline for BTS flight delay data with **Databricks + dbt medallion architecture** (star schema, SCD Type 2)
@@ -94,7 +94,7 @@ I'm a **Data Engineer & Python Developer** based in Taxila, Pakistan, passionate
 
 ---
 
-##### ⚡ [Merit Order ETL Pipeline](https://github.com/asadafridi567/Merit-Order-ETL-Pipeline)
+### ⚡ [Merit Order ETL Pipeline](https://github.com/asadafridi567/Merit-Order-ETL-Pipeline)
 **Tech:** Databricks · Python · OCR · Data Quality
 
 - Developed an ETL pipeline on Databricks that tracks plant-wise fuel costs on Pakistan's power grid (May–Aug 2026)
